@@ -2,7 +2,7 @@
 
 /**
  * main - prints alphabet in lower case
- * followed by a new line
+ * description: followed by a new line
  * Return: 0
  */
 int main(void)
